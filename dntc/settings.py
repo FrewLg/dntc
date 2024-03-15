@@ -36,9 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
-    'schedule',
-    'djangobower',
-
+    # 'schedule',
+    # 'djangobower',
     'django.contrib.messages',
     'django.contrib.staticfiles',
 ]
